@@ -1,0 +1,38 @@
+[
+  {
+    "img": "https://th.bing.com/th/id/OIP.ZoequwlBLfs2CbMNwyfCBgHaHa?rs=1&pid=ImgDetMain",
+    "title": "Smoked salmon burger",
+    "cookingTime": 20,
+    "servings": 6,
+    "calories": 210,
+    "difficulty": 0,
+    "id": 61
+  },
+  {
+    "img": "https://momsdinner.net/wp-content/uploads/2020/12/Baked-Feta-Recipe-2.jpg",
+    "title": "Tomatoes with creamy feta",
+    "cookingTime": 15,
+    "servings": 3,
+    "calories": 600,
+    "difficulty": 0,
+    "id": 10
+  },
+  {
+    "img": "https://th.bing.com/th/id/R.5a8ed79596cff6d08f35af1d70a441da?rik=1XKMDE8%2fcq1IVQ&pid=ImgRaw&r=0",
+    "title": "Spicy potato salad",
+    "cookingTime": 30,
+    "servings": 2,
+    "calories": 320,
+    "difficulty": 1,
+    "id": 78
+  },
+  {
+    "img": "https://www.whiskaffair.com/wp-content/uploads/2020/07/Chicken-Biryani-2-3.jpg",
+    "title": "Chicken Biryani",
+    "cookingTime": 40,
+    "servings": 4,
+    "calories": 700,
+    "difficulty": 2,
+    "id": 33
+  }
+]
